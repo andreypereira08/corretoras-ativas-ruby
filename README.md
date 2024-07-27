@@ -25,15 +25,15 @@ Portanto, para rodar o código com êxito deve:
   * Siga a documentação de instalação do [BrasilAPI para Ruby](https://github.com/dayvidemerson/brasilapi-rb)
 
     ```bash
-    $ bundle add brasilapi
+    bundle add brasilapi
     ```
     ```bash
-    $ gem install brasilapi
+    gem install brasilapi
     ```
 
   * Rode o programa no terminal
     ```bash
-    ruby main.rb
+    ruby corretoras-ativas.rb
     ```
 
 </details>
